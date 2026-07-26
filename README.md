@@ -25,12 +25,10 @@
 
 ---
 
-### 📌 Projetos em destaque
+### 📌 Projetos em construção 
 
 - 🔎 **[AI]** — Sistema de RAG (Retrieval-Augmented Generation) construído com Python, rodando 100% local.
+- 🔎 **[FaceRec] ** — Reconhecimento Facial usando opencv.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yurioh25&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
