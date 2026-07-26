@@ -1,7 +1,7 @@
 <h1 align="center">Olá, tudo bem? 👋</h1>
 
 <p align="center">
-  Sou <b>[Seu Nome]</b>, [ex: estudante de Ciência da Computação / Engenharia de Software].
+  Sou <b>Yuri Amorim</b>, estudante de Ciência da Computação.
 </p>
 
 ---
