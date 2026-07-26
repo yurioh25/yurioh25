@@ -28,7 +28,7 @@
 ### 📌 Projetos em construção 
 
 - 🔎 **[AI]** — Sistema de RAG (Retrieval-Augmented Generation) construído com Python, rodando 100% local.
-- 🔎**[FaceRec]** — Reconhecimento Facial usando opencv.
+- 🔎[FaceRec] — Reconhecimento Facial usando opencv.
 
 ---
 
