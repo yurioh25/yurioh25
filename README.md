@@ -9,7 +9,7 @@
 ### 🚀 Sobre mim
 - 🎓 Estudando [ADS/TSI] 
 - 💻 Trabalhando atualmente em projetos com IA
-- 🌱 Aprendendo mais sobre [Data Analytics e AI Piloting]
+- 🌱 Aprendendo mais sobre [Data Analytics e LLM's]
 - 📫 Como me encontrar: [[LinkedIn](https://www.linkedin.com/in/yuri-a-ba16b923a/)] · [yuriamorimla@gmail.com]
 
 ---
